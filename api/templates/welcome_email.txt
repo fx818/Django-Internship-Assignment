@@ -1,0 +1,6 @@
+Hello {{ username }},
+
+Thank you for registering for the Django Internship Assignment!
+
+Best regards,
+The Team 

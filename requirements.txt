@@ -1,0 +1,9 @@
+django
+python-dotenv
+djangorestframework
+djangorestframework-simplejwt
+celery
+redis
+requests
+drf-yasg
+django-cors-headers 
