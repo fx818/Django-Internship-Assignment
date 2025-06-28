@@ -21,8 +21,7 @@ This project demonstrates backend skills using Django, Django REST Framework, JW
 
 1. **Clone the repository**
    ```
-   git clone <your-repo-url>
-   cd <repo-folder>
+   git clone [<your-repo-url>](https://github.com/fx818/Django-Internship-Assignment)
    ```
 
 2. **Install dependencies**
@@ -138,5 +137,3 @@ This project demonstrates backend skills using Django, Django REST Framework, JW
 - See `tests/` for sample unit tests for registration.
 
 ---
-
-**Good luck!** 
